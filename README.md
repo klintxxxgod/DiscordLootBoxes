@@ -1,0 +1,2 @@
+# DiscordLootBoxes
+DiscordLootBoxes
